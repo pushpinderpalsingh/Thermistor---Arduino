@@ -42,12 +42,12 @@ float c1 = 1.009249522e-03, c2 = 2.378405444e-04, c3 = 2.019202697e-07;
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "34c332515f204fa0a3a68dfefa3bcdad";
+char auth[] = "";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Heman Walia";
-char pass[] = "verna2017";
+char ssid[] = "";
+char pass[] = "";
 
 BlynkTimer timer;
 
